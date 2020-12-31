@@ -1,1 +1,0 @@
-cd /sdcard/ytdownloader && python yt.py
